@@ -5,3 +5,7 @@ SmartLocationDB.csv - Dataset that contains information on area, demographics, e
 SocialExplorer.csv - Dataset that contains information on number of people that drive to work and population from the 2012 American Community Survey. (2/2)
 
 ModeShareInfluencers.ipynb - Notebook that shows the regression model cleaning and creation process. 
+
+social_explorer_columns.txt - Dictionary for data in SocialExplorer.csv
+
+sld_userguide.pdf - Guide to data in SmartLocationDB.csv
